@@ -1,4 +1,4 @@
-**Log on to codingabel.com for more projects!**
+
 
 **Database Name: inventorymgtci**
 
